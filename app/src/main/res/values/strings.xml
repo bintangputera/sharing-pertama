@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="text_1">Text 1</string>
+    <string name="text_2">Text 2</string>
+    <string name="login_page">Login Page</string>
+    <string name="logint_terlebih_dahulu_untuk_memulai">Logint terlebih dahulu untuk memulai</string>
+    <string name="masukkan_username">Masukkan Username</string>
+    <string name="masukkan_password">Masukkan Password</string>
+    <string name="login">Login</string>
+    <string name="halaman_dua">Halaman Dua</string>
+</resources>
